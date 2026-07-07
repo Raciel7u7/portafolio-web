@@ -34,7 +34,7 @@ Programación Web, Verano 2026
 
 **portafolio-web** es un sitio web personal estático y responsivo, estructurado de forma nativa en HTML5, CSS3 y JavaScript Vanilla.
 
-El diseño está construido sobre el framework **Bootstrap v5.2.3**, tomando como base la plantilla comercial *Grayscale* de Start Bootstrap. Se omitió por completo el uso de frameworks de JavaScript complejos como React o Vue, priorizando el rendimiento, la manipulación directa del DOM y la correcta estructuración del layout adaptativo a través de clases utilitarias.
+El diseño está construido sobre el framework **Bootstrap v5.2.3**, tomando como base la plantilla [Grayscale](https://startbootstrap.com/theme/grayscale) de Start Bootstrap. Se omitió por completo el uso de frameworks de JavaScript complejos como React o Vue, priorizando el rendimiento, la manipulación directa del DOM y la correcta estructuración del layout adaptativo a través de clases utilitarias.
 
 ---
 
